@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|c:\\users\\jmura\\source\\repos\\socketapplication\\socketapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|solutionrelative:socketapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|c:\\users\\jmura\\source\\repos\\socketapplication\\socketapplication\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|solutionrelative:socketapplication\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|c:\\users\\jmura\\source\\repos\\socketapplication\\socketapplication\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FC6C-9DD6-421B-AABB-BA5A5C71E9B3}|SocketApplication\\SocketApplication.csproj|solutionrelative:socketapplication\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "SocketApplication\\ServerSocket.cs",
+              "ToolTip": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\ServerSocket.cs",
+              "RelativeToolTip": "SocketApplication\\ServerSocket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:25:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "SocketApplication\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\ClientSocket.cs",
+              "RelativeToolTip": "SocketApplication\\ClientSocket.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAIAwwH0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:23:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SocketApplication\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jmura\\source\\repos\\SocketApplication\\SocketApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SocketApplication\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:18:08.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

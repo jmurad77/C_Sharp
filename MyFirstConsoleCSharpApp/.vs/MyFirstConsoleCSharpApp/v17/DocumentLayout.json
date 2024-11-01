@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmura\\source\\repos\\MyFirstConsoleCSharpApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F28598-DA3E-43CA-A59B-1E8FF684A6D3}|MyFirstConsoleCSharpApp\\MyFirstConsoleCSharpApp.csproj|c:\\users\\jmura\\source\\repos\\myfirstconsolecsharpapp\\myfirstconsolecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F28598-DA3E-43CA-A59B-1E8FF684A6D3}|MyFirstConsoleCSharpApp\\MyFirstConsoleCSharpApp.csproj|solutionrelative:myfirstconsolecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmura\\source\\repos\\MyFirstConsoleCSharpApp\\MyFirstConsoleCSharpApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstConsoleCSharpApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jmura\\source\\repos\\MyFirstConsoleCSharpApp\\MyFirstConsoleCSharpApp\\Program.cs",
+              "RelativeToolTip": "MyFirstConsoleCSharpApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:21:31.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

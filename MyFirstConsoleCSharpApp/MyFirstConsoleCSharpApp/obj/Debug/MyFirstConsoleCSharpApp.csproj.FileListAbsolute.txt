@@ -1,0 +1,7 @@
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\bin\Debug\MyFirstConsoleCSharpApp.exe.config
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\bin\Debug\MyFirstConsoleCSharpApp.exe
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\bin\Debug\MyFirstConsoleCSharpApp.pdb
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\obj\Debug\MyFirstConsoleCSharpApp.csproj.AssemblyReference.cache
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\obj\Debug\MyFirstConsoleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\obj\Debug\MyFirstConsoleCSharpApp.exe
+C:\Users\jmura\source\repos\MyFirstConsoleCSharpApp\MyFirstConsoleCSharpApp\obj\Debug\MyFirstConsoleCSharpApp.pdb

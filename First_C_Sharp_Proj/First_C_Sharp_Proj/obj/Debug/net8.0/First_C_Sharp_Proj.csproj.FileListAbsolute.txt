@@ -1,0 +1,14 @@
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\bin\Debug\net8.0\First_C_Sharp_Proj.exe
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\bin\Debug\net8.0\First_C_Sharp_Proj.deps.json
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\bin\Debug\net8.0\First_C_Sharp_Proj.runtimeconfig.json
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\bin\Debug\net8.0\First_C_Sharp_Proj.dll
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\bin\Debug\net8.0\First_C_Sharp_Proj.pdb
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.AssemblyInfoInputs.cache
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.AssemblyInfo.cs
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.csproj.CoreCompileInputs.cache
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.dll
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\refint\First_C_Sharp_Proj.dll
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.pdb
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\First_C_Sharp_Proj.genruntimeconfig.cache
+C:\Users\jmura\source\repos\First_C_Sharp_Proj\First_C_Sharp_Proj\obj\Debug\net8.0\ref\First_C_Sharp_Proj.dll
